@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chr0405&layout=pie&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chr0405&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chr0405&show_icons=true&theme=flag-india&rank_icon=github)
 
 ![footer](https://capsule-render.vercel.app/api?type=egg&color=F7E07F&height=300&width=200&section=footer&fontColor=FFA500)

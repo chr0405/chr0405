@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=egg&color=F7E07F&text=Welcome%20harim's%20Github&height=300&width=200&section=header&fontColor=FFA500)
 
-<h5 align="center">🖥️ Front-end 🖥️</h5>
+<h1 align="center">🖥️ Front-end 🖥️</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp 

@@ -32,7 +32,7 @@
 </br>
 <h2 align="center">📁 My Links 📁</h2>
 <p align="center">
-  <a href="https://chr0405-portfolio.vercel.app"><img src="https://img.shields.io/badge/FE%20portfolio-E8E8E8.svg?&style=for-the-badge&logoColor=white"/></a>&nbsp 
+  <a href="https://chr0405-portfolio.vercel.app"><img src="https://img.shields.io/badge/FE%20portfolio-E8E8E8.svg?&style=for-the-badge"/></a>&nbsp 
   <a href="https://08x0040x.tistory.com"><img src="https://img.shields.io/badge/Tistory-FF5A4A.svg?&style=for-the-badge&logo=tistory&logoColor=white"/></a>&nbsp 
   <a href="mailto:chohr1844@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>

@@ -23,5 +23,5 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chr0405&langs_count=8&layout=compact&theme=flag-india" />
 </a>
-</br>
+
 ![footer](https://capsule-render.vercel.app/api?type=egg&color=F7E07F&height=200&width=250&section=footer&fontColor=FFA500)

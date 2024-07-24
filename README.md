@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=F7E07F&text=Welcome%20harim's%20Github&height=100&width=300&textBg=FFD159&fontColor=FF8C00)
+![header](https://capsule-render.vercel.app/api?type=egg&color=F7E07F&text=Welcome%20harim's%20Github&height=100&width=300&textBg=FFD159&fontColor=FFA500)

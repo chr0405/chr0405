@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=egg&color=F7E07F&text=Welcome%20harim's%20Github&height=250&width=200&section=header&fontColor=FFA500"/>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchr0405&count_bg=%23FFA500&title_bg=%23F7E07F&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true"/></a>
-<p align="center">
+<p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chr0405&show_icons=true&theme=flag-india&rank_icon=github" />
 </a>

@@ -15,12 +15,10 @@
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/></a>
 </p>
 <br>
-<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chr0405&show_icons=true&theme=flag-india&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chr0405&langs_count=8&layout=compact&theme=flag-india" />
 </a>
-<br>
 <img src="https://capsule-render.vercel.app/api?type=egg&color=F7E07F&height=200&width=250&section=footer&fontColor=FFA500"/></a>

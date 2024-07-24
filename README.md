@@ -22,5 +22,5 @@
   <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chr0405&langs_count=8&layout=compact&theme=flag-india" />
 </a>
 <br/>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ch0nn)](https://solved.ac/ch0nn)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ch0nn)](https://solved.ac/ch0nn/)
 <img src="https://capsule-render.vercel.app/api?type=egg&color=F7E07F&height=200&width=250&section=footer&fontColor=FFA500"/></a>

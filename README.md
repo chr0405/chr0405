@@ -16,14 +16,11 @@
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chr0405&layout=compact&langs_count=8&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chr0405&show_icons=true&theme=flag-india&rank_icon=github)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chr0405&show_icons=true&theme=flag-india&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chr0405&langs_count=8&layout=compact&theme=flag-india" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chr0405&langs_count=8&layout=compact&theme=flag-india" />
 </a>
 
 ![footer](https://capsule-render.vercel.app/api?type=egg&color=F7E07F&height=300&width=200&section=footer&fontColor=FFA500)

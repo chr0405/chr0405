@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=F7E07F&text=Welcome%20harim's%20Github&height=250&width=200&section=header&fontColor=FFA500)
 <img src="https://capsule-render.vercel.app/api?type=egg&color=F7E07F&text=Welcome%20harim's%20Github&height=250&width=200&section=header&fontColor=FFA500"/></a>
 <br>
 <h2 align="center">🖥️ Front-end 🖥️<h2>
@@ -24,5 +23,5 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chr0405&langs_count=8&layout=compact&theme=flag-india" />
 </a>
-
-![footer](https://capsule-render.vercel.app/api?type=egg&color=F7E07F&height=200&width=250&section=footer&fontColor=FFA500)
+<br>
+<img src="https://capsule-render.vercel.app/api?type=egg&color=F7E07F&height=200&width=250&section=footer&fontColor=FFA500"/></a>

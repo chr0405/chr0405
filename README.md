@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
 </p>
-<br/>
+
 <h2 align="center">✉️ Contect ✉️<h2>
 <p align="center">
   <a href="https://08x0040x.tistory.com"><img src="https://img.shields.io/badge/Tistory-FF5A4A.svg?&style=for-the-badge&logo=tistory&logoColor=white"/></a>&nbsp 

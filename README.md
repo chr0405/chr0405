@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=egg&color=F7E07F&text=Welcome%20harim's%20Github&height=250&width=200&section=header&fontColor=FFA500"/></a>
-<h2 align="center" marginTop=10>🖥️ Front-end 🖥️<h2>
+<h2 align="center">🖥️ Front-end 🖥️<h2>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp 
